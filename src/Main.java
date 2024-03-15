@@ -30,7 +30,7 @@ public class Main {
         /*
         2.Napisi program koji koristi while petlju da omogući korisniku unos dva broja.
         Program treba da ispise rezultat deljenja prvog broja sa drugim.
-        Petlja treba da se ponavlja sve dok drugi broj nije razlicit od nule.
+        Petlja treba da se ponavlja sve dok je drugi broj razlicit od nule.
         */
 
 
